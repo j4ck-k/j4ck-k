@@ -1,3 +1,5 @@
+<!--
+
 ### Hi 👋🏻
 
 I'm Jack (he/him), a current math PhD student at the University of Washington. Before coming to UW, I graduated from Smith College with a BA in Math (and Statistics, technically) in 2021.
@@ -8,7 +10,7 @@ I'm Jack (he/him), a current math PhD student at the University of Washington. B
 - 👨🏻‍💻 I enjoy data analysis and am always working to improve my technical skills
 - 🇬🇧 I'm British but write in an unfortunate mixture of British and American English
 
-<!--
+
 **j4ck-k/j4ck-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
